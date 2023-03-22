@@ -3,7 +3,7 @@
 <h2>Bem Vindo ao meu Perfil!</h2>
 </div>
 </br>
-<div>
+<div align="center">
    <a href="https://github.com/machado-michel">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=machado-michel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
